@@ -1,0 +1,364 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Building Scalable React Applications",
+      "slug": "building-scalable-react-applications",
+      "excerpt": "Learn how to structure large React projects using reusable components, hooks, and best practices.",
+      "content": "This article explains how to scale React applications using feature-based folder structure, custom hooks, and state management.",
+      "coverImage": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+      "category": "React",
+      "author": {
+        "name": "Yuvraj Ganshi",
+        "avatar": "https://i.pravatar.cc/100?img=1"
+      },
+      "publishedAt": "2025-01-10",
+      "readTime": "5 min",
+      "tags": [
+        "react",
+        "frontend",
+        "architecture"
+      ],
+      "views": 1240
+    },
+    {
+      "id": 2,
+      "title": "JavaScript Closures Explained Simply",
+      "slug": "javascript-closures-explained",
+      "excerpt": "Closures are one of the most confusing topics in JavaScript. Let’s simplify them.",
+      "content": "Closures allow functions to access variables from an outer scope even after execution.",
+      "coverImage": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d",
+      "category": "JavaScript",
+      "author": {
+        "name": "Admin",
+        "avatar": "https://i.pravatar.cc/100?img=2"
+      },
+      "publishedAt": "2025-01-12",
+      "readTime": "6 min",
+      "tags": [
+        "javascript",
+        "closures",
+        "interview"
+      ],
+      "views": 980
+    },
+    {
+      "id": 3,
+      "title": "Frontend Developer Roadmap 2025",
+      "slug": "frontend-developer-roadmap-2025",
+      "excerpt": "A complete roadmap to become a successful frontend developer in 2025.",
+      "content": "This roadmap covers HTML, CSS, JavaScript, React, performance, and system design basics.",
+      "coverImage": "https://images.unsplash.com/photo-1505685296765-3a2736de412f",
+      "category": "Career",
+      "author": {
+        "name": "Editorial",
+        "avatar": "https://i.pravatar.cc/100?img=3"
+      },
+      "publishedAt": "2025-01-15",
+      "readTime": "8 min",
+      "tags": [
+        "career",
+        "frontend",
+        "roadmap"
+      ],
+      "views": 2100
+    },
+    {
+      "id": 4,
+      "title": "Understanding Event Loop in JavaScript",
+      "slug": "javascript-event-loop",
+      "excerpt": "Understand how call stack, task queue, and microtasks work in JavaScript.",
+      "content": "The event loop allows JavaScript to perform non-blocking operations using callbacks and promises.",
+      "coverImage": "https://images.unsplash.com/photo-1526378722445-8f6f4f4a8c90",
+      "category": "JavaScript",
+      "author": {
+        "name": "Tech Team",
+        "avatar": "https://i.pravatar.cc/100?img=4"
+      },
+      "publishedAt": "2025-01-18",
+      "readTime": "7 min",
+      "tags": [
+        "event-loop",
+        "async",
+        "javascript"
+      ],
+      "views": 1560
+    },
+    {
+      "id": 5,
+      "title": "React vs Next.js: When to Use What",
+      "slug": "react-vs-nextjs",
+      "excerpt": "Confused between React and Next.js? This guide will help you decide.",
+      "content": "Next.js provides SSR, SSG, routing and performance optimizations over React.",
+      "coverImage": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+      "category": "React",
+      "author": {
+        "name": "Yuvraj Ganshi",
+        "avatar": "https://i.pravatar.cc/100?img=5"
+      },
+      "publishedAt": "2025-01-20",
+      "readTime": "6 min",
+      "tags": [
+        "react",
+        "nextjs",
+        "framework"
+      ],
+      "views": 1320
+    },
+    {
+      "id": 6,
+      "title": "CSS Grid vs Flexbox Explained",
+      "slug": "css-grid-vs-flexbox",
+      "excerpt": "Learn the difference between CSS Grid and Flexbox with real examples.",
+      "content": "Flexbox is one-dimensional while Grid is two-dimensional layout system.",
+      "coverImage": "https://images.unsplash.com/photo-1504805572947-34fad45aed93",
+      "category": "CSS",
+      "author": {
+        "name": "Design Team",
+        "avatar": "https://i.pravatar.cc/100?img=6"
+      },
+      "publishedAt": "2025-01-22",
+      "readTime": "5 min",
+      "tags": [
+        "css",
+        "grid",
+        "flexbox"
+      ],
+      "views": 890
+    },
+    {
+      "id": 7,
+      "title": "Debounce vs Throttle in JavaScript",
+      "slug": "debounce-vs-throttle",
+      "excerpt": "Understand debounce and throttle with real-world use cases.",
+      "content": "Debounce delays execution, throttle limits execution rate.",
+      "coverImage": "https://images.unsplash.com/photo-1537432376769-00aabc7b2c6a",
+      "category": "JavaScript",
+      "author": {
+        "name": "Admin",
+        "avatar": "https://i.pravatar.cc/100?img=7"
+      },
+      "publishedAt": "2025-01-25",
+      "readTime": "4 min",
+      "tags": [
+        "debounce",
+        "throttle",
+        "performance"
+      ],
+      "views": 1700
+    },
+    {
+      "id": 8,
+      "title": "How Browsers Render Web Pages",
+      "slug": "browser-rendering-process",
+      "excerpt": "Learn how HTML, CSS and JS are converted into pixels on screen.",
+      "content": "Browser rendering includes parsing, layout, painting and compositing.",
+      "coverImage": "https://images.unsplash.com/photo-1484417894907-623942c8ee29",
+      "category": "Web",
+      "author": {
+        "name": "Tech Team",
+        "avatar": "https://i.pravatar.cc/100?img=8"
+      },
+      "publishedAt": "2025-01-28",
+      "readTime": "6 min",
+      "tags": [
+        "browser",
+        "rendering",
+        "performance"
+      ],
+      "views": 1110
+    },
+    {
+      "id": 9,
+      "title": "Building Reusable Components in React",
+      "slug": "reusable-react-components",
+      "excerpt": "Best practices to create scalable reusable components.",
+      "content": "Reusable components reduce duplication and improve maintainability.",
+      "coverImage": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+      "category": "React",
+      "author": {
+        "name": "Yuvraj Ganshi",
+        "avatar": "https://i.pravatar.cc/100?img=9"
+      },
+      "publishedAt": "2025-02-01",
+      "readTime": "5 min",
+      "tags": [
+        "react",
+        "components"
+      ],
+      "views": 990
+    },
+    {
+      "id": 10,
+      "title": "Git & GitHub for Frontend Developers",
+      "slug": "git-github-frontend",
+      "excerpt": "Essential Git commands every frontend developer should know.",
+      "content": "Git helps in version control, collaboration and code history.",
+      "coverImage": "https://images.unsplash.com/photo-1556075798-4825dfaaf498",
+      "category": "Tools",
+      "author": {
+        "name": "Editorial",
+        "avatar": "https://i.pravatar.cc/100?img=10"
+      },
+      "publishedAt": "2025-02-03",
+      "readTime": "6 min",
+      "tags": [
+        "git",
+        "github",
+        "tools"
+      ],
+      "views": 880
+    },
+    {
+      "id": 11,
+      "title": "State Management in React Explained",
+      "slug": "react-state-management",
+      "excerpt": "Understand useState, useContext and Redux basics.",
+      "content": "State management helps in managing data across components.",
+      "coverImage": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+      "category": "React",
+      "author": {
+        "name": "Admin",
+        "avatar": "https://i.pravatar.cc/100?img=11"
+      },
+      "publishedAt": "2025-02-05",
+      "readTime": "7 min",
+      "tags": [
+        "react",
+        "state"
+      ],
+      "views": 1040
+    },
+    {
+      "id": 12,
+      "title": "What Happens When You Type a URL?",
+      "slug": "what-happens-when-you-type-url",
+      "excerpt": "A deep dive into DNS, HTTP and browser internals.",
+      "content": "This article explains the complete journey from URL to webpage.",
+      "coverImage": "https://images.unsplash.com/photo-1505238680356-667803448bb6",
+      "category": "Web",
+      "author": {
+        "name": "Tech Team",
+        "avatar": "https://i.pravatar.cc/100?img=12"
+      },
+      "publishedAt": "2025-02-07",
+      "readTime": "8 min",
+      "tags": [
+        "dns",
+        "http",
+        "web"
+      ],
+      "views": 1400
+    },
+    {
+      "id": 13,
+      "title": "Common JavaScript Interview Questions",
+      "slug": "javascript-interview-questions",
+      "excerpt": "Most asked JavaScript interview questions with explanations.",
+      "content": "Covers hoisting, closures, promises and async/await.",
+      "coverImage": "https://images.unsplash.com/photo-1556761175-4b46a572b786",
+      "category": "Interview",
+      "author": {
+        "name": "Editorial",
+        "avatar": "https://i.pravatar.cc/100?img=13"
+      },
+      "publishedAt": "2025-02-10",
+      "readTime": "9 min",
+      "tags": [
+        "javascript",
+        "interview"
+      ],
+      "views": 2600
+    },
+    {
+      "id": 14,
+      "title": "Optimizing Web Performance",
+      "slug": "web-performance-optimization",
+      "excerpt": "Tips to make your website fast and responsive.",
+      "content": "Covers lazy loading, code splitting and image optimization.",
+      "coverImage": "https://images.unsplash.com/photo-1492724441997-5dc865305da7",
+      "category": "Performance",
+      "author": {
+        "name": "Admin",
+        "avatar": "https://i.pravatar.cc/100?img=14"
+      },
+      "publishedAt": "2025-02-12",
+      "readTime": "7 min",
+      "tags": [
+        "performance",
+        "optimization"
+      ],
+      "views": 1200
+    },
+    {
+      "id": 15,
+      "title": "How to Prepare for Frontend Interviews",
+      "slug": "frontend-interview-preparation",
+      "excerpt": "A practical guide to crack frontend developer interviews.",
+      "content": "Focus on projects, JS fundamentals, React and problem solving.",
+      "coverImage": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+      "category": "Career",
+      "author": {
+        "name": "Yuvraj Ganshi",
+        "avatar": "https://i.pravatar.cc/100?img=15"
+      },
+      "publishedAt": "2025-02-15",
+      "readTime": "8 min",
+      "tags": [
+        "career",
+        "interview"
+      ],
+      "views": 1900
+    }
+  ],
+  "users": [
+    {
+      "id": "ed3a",
+      "fullName": "Yuvraj Ganshi",
+      "email": "yuvrajganshi@gmail.com",
+      "password": "Aceinfo@253151",
+      "createdAt": "2026-01-27T12:00:00Z"
+    },
+    {
+      "id": "8927",
+      "fullName": "Balraj Kumar",
+      "email": "balrajkumar@gmail.com",
+      "password": "Aceinfo@12345",
+      "createdAt": "2026-01-24T12:00:00Z"
+    },
+    {
+      "id": "f1eb",
+      "fullName": "Mohan Kumar",
+      "email": "mohankumar@gmail.com",
+      "password": "Aceinfo@123",
+      "createdAt": "2026-01-27T18:54:34.696Z"
+    },
+    {
+      "id": "fbf5",
+      "fullName": "Suresh Kumar",
+      "email": "sureshkumar@gmail.com",
+      "password": "Aceinfo@12399",
+      "createdAt": "2026-01-27T18:54:34.696Z"
+    },
+    {
+      "id": "03b6",
+      "fullName": "Daman Kumar",
+      "email": "damankumar@gmail.com",
+      "password": "Password90",
+      "createdAt": "2026-01-27T19:02:28.114Z"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1769512198212",
+      "content": "Nice Post.😂",
+      "createdAt": "1/27/2026, 4:39:58 PM"
+    },
+    {
+      "id": "1769513127542",
+      "blogId": 3,
+      "content": "Nice Post",
+      "createdAt": "1/27/2026, 4:55:27 PM"
+    }
+  ]
+}
