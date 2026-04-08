@@ -1,4 +1,4 @@
-# 📝 Blog Management System 🚀
+# 📝 Blog Management System 
 
 ## 📌 Overview
 A dynamic Blog Management System built to create, manage, and publish blog content efficiently. This application simulates a real-world content platform where users can perform CRUD operations on blog posts with a structured and scalable frontend architecture.
