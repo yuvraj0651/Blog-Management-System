@@ -3,6 +3,15 @@
 ## 📌 Overview
 A dynamic Blog Management System built to create, manage, and publish blog content efficiently. This application simulates a real-world content platform where users can perform CRUD operations on blog posts with a structured and scalable frontend architecture.
 
+![React](https://img.shields.io/badge/React-JS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CMS](https://img.shields.io/badge/Content-Management-System-blue?style=for-the-badge)
+![Blog](https://img.shields.io/badge/Blog-App-green?style=for-the-badge)
+![CRUD](https://img.shields.io/badge/CRUD-Operations-orange?style=for-the-badge)
+![Dashboard](https://img.shields.io/badge/Admin-Dashboard-purple?style=for-the-badge)
+![Posts](https://img.shields.io/badge/Post-Management-red?style=for-the-badge)
+![Responsive](https://img.shields.io/badge/Responsive-Design-0A66C2?style=for-the-badge)
+
 ---
 
 ## 🛠️ Tech Stack
