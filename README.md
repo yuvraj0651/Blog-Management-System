@@ -1,4 +1,5 @@
 # 📝 Blog Management System 
+![Blog-Management](https://github.com/user-attachments/assets/cf050e35-c39c-4f59-a52d-30367a077f3c)
 
 ## 📌 Overview
 A dynamic Blog Management System built to create, manage, and publish blog content efficiently. This application simulates a real-world content platform where users can perform CRUD operations on blog posts with a structured and scalable frontend architecture.
