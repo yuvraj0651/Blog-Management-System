@@ -79,7 +79,7 @@ export default function BlogDetailPage() {
         })
     };
 
-    const filteredComments = commentData.filter((comment) => comment.blogId === Number(id));
+    const filteredComments = commentData.filter((comment) => comment.blogId === id);
 
     const relatedBlogs = blogData.filter((blog) => {
         if (blog.id === blogDetailData.id) return false;
